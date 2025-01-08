@@ -1,4 +1,7 @@
-# HR-Dashboard-MySQL-PowerBI
+# HR-Dashboard-MySQL-PowerBI <br/>
+![report](../main/Images/Report.png)
+
+
 
 ## Data Used
 
@@ -11,18 +14,27 @@
 ## Questions
 
 1. What is the gender breakdown of employees in the company? <br/>
-
-
-3. What is the race/ethnicity breakdown of employees in the company?
-4. What is the age distribution of employees in the company?
-5. How many employees work at headquarters versus remote locations?
-6. What is the average length of employment for employees who have been terminated?
-7. How does the gender distribution vary across departments and job titles?
-8. What is the distribution of job titles across the company?
-9. Which department has the highest turnover rate?
-10. What is the distribution of employees across locations by state?
-11. How has the company's employee count changed over time based on hire and term dates?
-12. What is the tenure distribution for each department?
+![result](../main/Images/1.png)
+2. What is the race/ethnicity breakdown of employees in the company? <br/>
+![result](../main/Images/2.png)
+3. What is the age distribution of employees in the company?<br/>
+![result](../main/Images/3.png)
+4. How many employees work at headquarters versus remote locations?<br/>
+![result](../main/Images/4.png)
+5. What is the average length of employment for employees who have been terminated?<br/>
+![result](../main/Images/5.png)
+6. How does the gender distribution vary across departments and job titles?<br/>
+![result](../main/Images/6.jpg)
+7. What is the distribution of job titles across the company?<br/>
+![result](../main/Images/7.jpg)
+8. Which department has the highest turnover rate?<br/>
+![result](../main/Images/8.png)
+9. What is the distribution of employees across locations by state?<br/>
+![result](../main/Images/9.jpg)
+10. How has the company's employee count changed over time based on hire and term dates?<br/>
+![result](../main/Images/10.png)
+11. What is the tenure distribution for each department?<br/>
+![result](../main/Images/11.png)
 
 ## Summary of Findings
  - There are more male employees
@@ -35,6 +47,7 @@
  - The Marketing department has the highest turnover rate followed by Training. The least turn over rate are in the Research and development, Support and Legal departments.
  - A large number of employees come from the state of Ohio.
  - The net change in employees has increased over the years.
+ - the average tenure accross all departments is around 8 years
 
 
 ## Limitations
